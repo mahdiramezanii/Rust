@@ -1,5 +1,7 @@
 
 
 fn main() {
-    println!("Hello world")
+    let number: u8=123;
+
+    println!("u8 min_value ---> {:b}",number)
 }
